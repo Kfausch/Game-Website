@@ -1,0 +1,16 @@
+#divnav {
+	float: left;
+	border: solid;
+	border-radius: 15px;
+	font-weight: bold;
+	width: 15.5%;
+	left: 100px;
+	position: fixed;
+	line-height: 150%;
+	text-align: left;
+
+}
+nav ul { 
+	padding: 0;	
+	list-style-type: none;
+}

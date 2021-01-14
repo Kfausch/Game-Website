@@ -1,0 +1,123 @@
+html {
+	font-family: "arial", arial, serif;
+}
+
+body {  color: white;
+	background-color: #0080ff;
+}
+
+#bg1{
+	background-image: url(images/pipe.png);
+	text-indent: 50px;
+	background-size: 150px 150px;
+	background-repeat: repeat-x;
+}
+
+#bg2{
+	padding-left: 75px;
+	background-image: url(images/box2.png);
+	background-repeat: repeat-y;}
+
+#box_img {
+	background-image: url(images/box.png);
+	background-repeat: no-repeat;
+	background-position: left;}
+
+textarea {width: 500px;
+	height: 100px;}
+
+fieldset {color: black;} 
+h2 {color: black;} 
+#text_brown {color: white;}
+#text_white {color: #FFFFFF;} 
+form {  
+	background-color:#eaeaea;
+	background-color:#eeeeee;
+	font-family: arial, sans-serif;
+	width: 550px; padding: 20px;
+}
+label { 
+	float: left; clear: left;  
+	display: block; width: 150px; 
+	text-align: right;  
+	padding-right: 10px;  
+	margin-top: 10px; 
+}
+input, textarea {margin-top: 10px;  display: block;}
+			
+h2 {text-align: center;}
+
+select {width:182px;
+	height: 75px;}
+
+#1 {text-align: right;}
+form {margin: 0 auto;}
+a:visited {color: #050169;}
+a:link {color: white;}
+a:hover {color: red;}
+#p{text-indent: 41px;}
+tr {text-align: left;}
+th {text-align: center;}
+td {padding: 10px;}
+table { 
+	display: inline-block;
+	padding: 10px;
+	align: center;
+}
+
+caption{
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+#coin{ 
+	background-image: url(images/coin.gif);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: bottom right;
+	background-size: 75px 75px;
+	padding: 9px;
+} 
+
+footer {
+	text-align: center;
+	bottom:0;
+	width:100%;
+} 
+
+
+ul{
+	list-style-image: url(images/shroom.png);
+	display:table; 
+	margin:0 auto;
+}
+li{
+	font-size:30px;
+	text-align: left;
+	list-style-position: inside;
+	vertical-align: text-center;
+
+}
+
+#div1 {
+	color: black;
+
+	font-family: Verdana, Helvetica, sans-serif;
+	padding: 55px;
+	text-indent: 0px;
+	border-radius: 15px;
+	background: #ffcc01;
+	background: -webkit-radial-gradient(#86C8FF, #0080ff);
+	background: -moz-radial-gradient(#86C8FF, #0080ff);
+	filter: progid:DXImageTransform.Microsoft.gradient
+		(startColorstr=#86C8FF, endColorstr=#0080ff);
+	radial-gradient(#86C8FF, #0080ff);
+	margin-left: auto;
+	margin-right: auto;
+	width:45%; 
+}
+
+
+
+
+
